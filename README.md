@@ -1,2 +1,2 @@
 # InterviewBit
-Interview Solutions
+InterviewBit Solutions
