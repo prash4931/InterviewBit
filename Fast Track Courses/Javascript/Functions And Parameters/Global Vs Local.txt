@@ -1,0 +1,9 @@
+Select your answer from the following options:
+
+✓  Scope determines the accessibility of variables, objects, and functions from different parts of the code.
+
+✓  Function arguments (parameters) work as local variables inside functions.
+
+✓  We can use variables with same name inside multiple fucntions.
+
+x  If we assign a value to a variable that has not been declared, it will become a GLOBAL variable always.
