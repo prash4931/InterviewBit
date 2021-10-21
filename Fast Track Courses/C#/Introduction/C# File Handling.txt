@@ -1,0 +1,9 @@
+Question
+
+The __ class in the System.IO namespace is used to read from and write to any location in a file.
+
+Select your answer from the following options:
+x File
+x FileInfo
+✓ FileStream
+x FileWriter
